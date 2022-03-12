@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MohammedBundid
-- 👀 I’m interested in ...
+- 👀 I’m interested in Cybersecurity and A.I
 - 🌱 I’m currently learning C programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me .....................................................................(!!!!!Don't!!!!)
 
 <!---
 MohammedBundid/MohammedBundid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
