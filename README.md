@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and A.I
 - 🌱 I’m currently learning C programming language
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me .....................................................................(!!!!!Don't!!!!)
+- 📫 How to reach me .................(email)
 
 <!---
 MohammedBundid/MohammedBundid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
