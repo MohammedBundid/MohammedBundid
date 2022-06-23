@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MohammedBundid
+- 👋 Hi, I’m @MohBundid
 - 👀 I’m interested in Cybersecurity and A.I
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m currently learning C programming language,c++,.net frmaework
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me .................(email)
 
